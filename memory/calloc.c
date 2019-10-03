@@ -32,3 +32,4 @@ int main(void) {
     free(numeros);
     return EXIT_SUCCESS;
 }
+https://onlinegdb.com/SkeOvTXdH
