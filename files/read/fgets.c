@@ -28,3 +28,4 @@ int main()
         fclose(archivo);
 	return 0;
 }
+https://onlinegdb.com/S1Rx9zt_H
